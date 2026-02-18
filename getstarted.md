@@ -24,13 +24,3 @@ settings → pages → deploy from branch.
 edit _config.yml to change title, colors, and navigation.
 
 </div>
-
-<style>
-.gs-section-01 h3 { color: #8C6A43; }
-.gs-section-02 h3 { color: black; }
-.gs-section-03 h3 { color: #5A4A3F; }
-
-.gs-section-01 p { font-size: 22px; }
-.gs-section-02 p { font-size: 18px; }
-.gs-section-03 p { font-size: 16px; }
-</style>
