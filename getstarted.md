@@ -38,12 +38,12 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 </div>
 
 <style>
-.gs-section-01 h3 { color: black; }
-.gs-section-01 p { font-size: 28px; }
+.gs-section-01 h3 { color: black !important; }
+.gs-section-01 p  { font-size: 28px !important; }
 
-.gs-section-02 h3 { color: pink; }
-.gs-section-02 p { font-size: 20px; }
+.gs-section-02 h3 { color: hotpink !important; }
+.gs-section-02 p  { font-size: 20px !important; }
 
-.gs-section-03 h3 { color: blue; }
-.gs-section-03 p { font-size: 16px; }
+.gs-section-03 h3 { color: blue !important; }
+.gs-section-03 p  { font-size: 16px !important; }
 </style>
